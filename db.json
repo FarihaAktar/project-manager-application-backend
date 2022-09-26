@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$rf2uU..O74m2v04o1Vmqfe8/QmlgnC9JluscPA5..UA.dFFmz2Rn2",
+      "id": 1
+    },
+    {
+      "email": "farihaaktar@ymail.com",
+      "password": "$2a$10$dmIf6GBsAli.bQP9Rb5zi.WlF5BrPp.Rhg.5d/LnzbU0gAkoKT2Fa",
+      "id": 2
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$eyA619vW5PpB5whSi86j8OTrsRhKlR4bv0TFDEda.xI3Cmm6qj/gO",
+      "id": 3
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$sLD/OQt2LzfeNTxpKNpHPulcxWlXWUzRzaZjKsoxdhaJfOxi1oUMC",
+      "id": 4
+    }
+  ],
+  "teams": [
+    {
+      "title": "Dev",
+      "description": "This is the title of the card for the thing that needs to be done.",
+      "colorCode": "bg-lime-100",
+      "members": "admin@example.com-farihaaktar@ymail.com-test1@gmail.com",
+      "timestamp": 1664026323486,
+      "status": "Doing",
+      "id": 1
+    },
+    {
+      "title": "Tech",
+      "description": "This is the tech where have to use redux toolkit",
+      "colorCode": "bg-purple-100",
+      "members": "admin@example.com",
+      "timestamp": 1664028531679,
+      "status": "Ready",
+      "id": 2
+    },
+    {
+      "title": "Design",
+      "description": "afjaf lafaf afjafja fpafjajf pafajf pajaj fojafjaf afojafja afj acjaj aaj",
+      "colorCode": "bg-pink-100",
+      "members": "admin@example.com-farihaaktar@ymail.com",
+      "timestamp": 1664028587862,
+      "status": "Doing",
+      "id": 3
+    },
+    {
+      "title": "Tech",
+      "description": "jfa afl afaj alaj ajjfajf laja jlaajff aodjaf afajf afojafja fafa jfoajfa faj",
+      "colorCode": "bg-purple-100",
+      "members": "admin@example.com",
+      "timestamp": 1664028694996,
+      "status": "Backlog",
+      "id": 4
+    },
+    {
+      "title": "sgsg",
+      "description": "sgsgsg",
+      "colorCode": "bg-orange-100",
+      "members": "admin@example.com",
+      "timestamp": 1664183866614,
+      "status": "Ready",
+      "id": 5
+    },
+    {
+      "title": "sgsgsg",
+      "description": "sdgsgsgsg",
+      "colorCode": "bg-cyan-100",
+      "members": "farihaaktar@ymail.com",
+      "timestamp": 1664184195049,
+      "status": "Backlog",
+      "id": 6
+    }
+  ]
+}
